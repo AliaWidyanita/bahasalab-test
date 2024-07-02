@@ -1,1 +1,8 @@
 streamlit>=1.26.0
+requests
+pandas
+sqlalchemy
+langchain
+psycopg2-binary
+transformers
+torch
