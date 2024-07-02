@@ -1,5 +1,9 @@
 import streamlit as st
+from query_processor import process_query
 
-st.title('🎈 App Name')
+st.title("Travel Agency Chatbot")
 
-st.write('Hello world!')
+query = st.text_input("Enter your question:")
+if st.button("Submit"):
+    response = process_query(query)
+    st.write(response)
