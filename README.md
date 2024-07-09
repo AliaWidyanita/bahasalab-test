@@ -1,4 +1,4 @@
-# 📦 Streamlit App Bahasalab Test
+# 📱 Travel Agency Chatbot Streamlit App
 
 A simple demo web app for a travel agency chatbot.
 
@@ -9,14 +9,3 @@ A simple demo web app for a travel agency chatbot.
 ## GitHub Codespaces
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/bahasalab-test?quickstart=1)
-
-## Section Heading
-
-This is filler text, please replace this with text for this section.
-
-## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
